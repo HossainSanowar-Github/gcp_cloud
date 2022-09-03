@@ -12,3 +12,4 @@ Steps 'gcloud CLI' installation for MAC M1:
 - ./google-cloud-sdk/bin/gcloud init
 - would you like to login: Y
 - gcloud app browse 'to show the browser'
+-brew install --cask google-cloud-sdk 'install google-cloud-sdk file in my local folder'
